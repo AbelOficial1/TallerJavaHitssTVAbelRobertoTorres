@@ -19,13 +19,13 @@ public class Main {
                                 LocalDate.of(2021, 8, 29), LocalTime.of(5, 39), 62));
 
                 vuelos.add(new Vuelo("LAT 755", "Sao Paulo", "Santiago",
-                                LocalDate.of(2021, 8, 30), LocalTime.of(4, 45), 47));
+                                LocalDate.of(2021, 8, 31), LocalTime.of(4, 45), 47));
 
                 vuelos.add(new Vuelo("SKU 621", "Rio de Janeiro", "Santiago",
                                 LocalDate.of(2021, 8, 30), LocalTime.of(16, 0), 52));
 
                 vuelos.add(new Vuelo("DAL 147", "Atlanta", "Santiago",
-                                LocalDate.of(2021, 8, 30), LocalTime.of(13, 22), 59));
+                                LocalDate.of(2021, 8, 29), LocalTime.of(13, 22), 59));
 
                 vuelos.add(new Vuelo("AVA 241", "Bogota", "Santiago",
                                 LocalDate.of(2021, 8, 31), LocalTime.of(14, 5), 25));
@@ -58,7 +58,7 @@ public class Main {
                                 LocalDate.of(2021, 8, 29), LocalTime.of(22, 53), 60));
 
                 vuelos.add(new Vuelo("ARG 5091", "Buenos Aires", "Santiago",
-                                LocalDate.of(2021, 8, 29), LocalTime.of(9, 57), 55));
+                                LocalDate.of(2021, 8, 31), LocalTime.of(9, 57), 55));
 
                 vuelos.add(new Vuelo("LAT 1283", "Cancun", "Santiago",
                                 LocalDate.of(2021, 8, 31), LocalTime.of(4, 0), 59));
